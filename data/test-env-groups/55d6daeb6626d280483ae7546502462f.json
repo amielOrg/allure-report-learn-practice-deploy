@@ -1,1 +1,1 @@
-{"id":"55d6daeb6626d280483ae7546502462f","fullName":"tests.test_rate_limit_config#test_a_hit_can_be_given_back","name":"test_a_hit_can_be_given_back","status":"passed","testResultsByEnv":{"default":"0b7a3abfe6f571c015f97364b2bdace6"}}
+{"id":"55d6daeb6626d280483ae7546502462f","fullName":"tests.test_rate_limit_config#test_a_hit_can_be_given_back","name":"test_a_hit_can_be_given_back","status":"passed","testResultsByEnv":{"default":"2b4f612833ff3b4c54be42c514cb6b00"}}

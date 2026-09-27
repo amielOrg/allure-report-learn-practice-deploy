@@ -1,1 +1,1 @@
-{"id":"a3c1872437b59c42c5aea606672b08fa","fullName":"AdminPage.spec.tsx:32:3","name":"does not call the admin API at all","status":"passed","testResultsByEnv":{"default":"7e8f76b73f26a13ed8fd87a047c9da0d"}}
+{"id":"a3c1872437b59c42c5aea606672b08fa","fullName":"AdminPage.spec.tsx:32:3","name":"does not call the admin API at all","status":"passed","testResultsByEnv":{"default":"70647eab5e926d6045665fd540964ef5"}}

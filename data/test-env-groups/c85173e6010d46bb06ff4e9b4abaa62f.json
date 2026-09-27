@@ -1,1 +1,1 @@
-{"id":"c85173e6010d46bb06ff4e9b4abaa62f","fullName":"tests.test_ai_gateway#test_a_grounded_request_goes_to_gemini","name":"test_a_grounded_request_goes_to_gemini","status":"passed","testResultsByEnv":{"default":"b265a399420439431e2110c60f474a7a"}}
+{"id":"c85173e6010d46bb06ff4e9b4abaa62f","fullName":"tests.test_ai_gateway#test_a_grounded_request_goes_to_gemini","name":"test_a_grounded_request_goes_to_gemini","status":"passed","testResultsByEnv":{"default":"f76e3e64e75cc63236c4621e7263d837"}}

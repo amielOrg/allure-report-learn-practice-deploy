@@ -1,1 +1,1 @@
-{"id":"c85a91241a363ff8572f0de126358179","fullName":"AdminPage.spec.tsx:49:3","name":"keeps the token for the tab only, never on the device","status":"passed","testResultsByEnv":{"default":"2f663526f456d15f6c3cfbf40a7537f3"}}
+{"id":"c85a91241a363ff8572f0de126358179","fullName":"AdminPage.spec.tsx:49:3","name":"keeps the token for the tab only, never on the device","status":"passed","testResultsByEnv":{"default":"d67839c875d0880ca797b01bbcb6d793"}}

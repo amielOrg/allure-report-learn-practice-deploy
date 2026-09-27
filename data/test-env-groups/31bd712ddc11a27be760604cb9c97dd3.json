@@ -1,1 +1,1 @@
-{"id":"31bd712ddc11a27be760604cb9c97dd3","fullName":"resumePrompt.spec.ts:162:3","name":"asks for a translation, not a second rewrite","status":"passed","testResultsByEnv":{"default":"98874332bbc011fbdb796ede2908ec13"}}
+{"id":"31bd712ddc11a27be760604cb9c97dd3","fullName":"resumePrompt.spec.ts:162:3","name":"asks for a translation, not a second rewrite","status":"passed","testResultsByEnv":{"default":"c7b6acb7d3c97165534399dc8b178fd5"}}

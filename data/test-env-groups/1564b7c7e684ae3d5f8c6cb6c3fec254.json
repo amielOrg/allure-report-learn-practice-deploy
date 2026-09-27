@@ -1,1 +1,1 @@
-{"id":"1564b7c7e684ae3d5f8c6cb6c3fec254","fullName":"apiClient.spec.ts:57:1","name":"refuses to send a body on a GET, instead of letting the server reject it","status":"passed","testResultsByEnv":{"default":"a6bf525e94d9d5327715a98761614e8f"}}
+{"id":"1564b7c7e684ae3d5f8c6cb6c3fec254","fullName":"apiClient.spec.ts:57:1","name":"refuses to send a body on a GET, instead of letting the server reject it","status":"passed","testResultsByEnv":{"default":"2ffd410a891536020c6e4050d3e8c9b9"}}

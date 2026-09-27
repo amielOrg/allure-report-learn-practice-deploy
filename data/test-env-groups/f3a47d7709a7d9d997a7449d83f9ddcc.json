@@ -1,1 +1,1 @@
-{"id":"f3a47d7709a7d9d997a7449d83f9ddcc","fullName":"openapi.spec.ts:170:5","name":"POST /admin/customers/{purchaseId}/recommendations answers with a documented media type","status":"passed","testResultsByEnv":{"default":"54140a07afc95e7df42d547d907429da"}}
+{"id":"f3a47d7709a7d9d997a7449d83f9ddcc","fullName":"openapi.spec.ts:170:5","name":"POST /admin/customers/{purchaseId}/recommendations answers with a documented media type","status":"passed","testResultsByEnv":{"default":"c5544001a3cfa4f5f47abfcb19152e2a"}}

@@ -1,1 +1,1 @@
-{"id":"69cdfeeeb880196d6611c2677d265867","fullName":"tests.test_catalog#test_sales_are_off_unless_the_flag_is_exactly_true","name":"test_sales_are_off_unless_the_flag_is_exactly_true[yes]","status":"passed","testResultsByEnv":{"default":"104fedb486b1813a4790712d3b4d4c6f"}}
+{"id":"69cdfeeeb880196d6611c2677d265867","fullName":"tests.test_catalog#test_sales_are_off_unless_the_flag_is_exactly_true","name":"test_sales_are_off_unless_the_flag_is_exactly_true[yes]","status":"passed","testResultsByEnv":{"default":"04e08e5f5edfa97e755df96255ac3893"}}
