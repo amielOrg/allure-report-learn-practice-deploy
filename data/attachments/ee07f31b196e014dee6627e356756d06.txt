@@ -1,0 +1,3 @@
+[GIVEN] is reached before the SPA catch-all that would otherwise claim it | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:234
+[WHEN] is reached before the SPA catch-all that would otherwise claim it | execute test actions and assertions
+[THEN] is reached before the SPA catch-all that would otherwise claim it | status=passed | expected=passed | duration=3ms

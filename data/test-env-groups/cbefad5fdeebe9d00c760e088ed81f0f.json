@@ -1,1 +1,1 @@
-{"id":"cbefad5fdeebe9d00c760e088ed81f0f","fullName":"openapi.spec.ts:184:5","name":"POST /admin/customers/{purchaseId}/recommendations returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"43b814a07c465b9c3c737a0153f0e590"}}
+{"id":"cbefad5fdeebe9d00c760e088ed81f0f","fullName":"openapi.spec.ts:184:5","name":"POST /admin/customers/{purchaseId}/recommendations returns a body its schema accepts","status":"passed","testResultsByEnv":{"default":"87895f5b0fafdb65dc86aaf17d8be8c1"}}

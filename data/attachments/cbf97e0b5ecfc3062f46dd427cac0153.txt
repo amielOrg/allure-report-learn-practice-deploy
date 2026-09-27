@@ -1,0 +1,3 @@
+[GIVEN] lets a real file win, which is why it sits after the filesystem | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:243
+[WHEN] lets a real file win, which is why it sits after the filesystem | execute test actions and assertions
+[THEN] lets a real file win, which is why it sits after the filesystem | status=passed | expected=passed | duration=2ms
