@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "still carries the security headers every response gets",
+  "suite": [
+    "unit/vercelRoutes.spec.ts",
+    "the API route"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:259",
+  "retry": 0,
+  "repeat": 0
+}

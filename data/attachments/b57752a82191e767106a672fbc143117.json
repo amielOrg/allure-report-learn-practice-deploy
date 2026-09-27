@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "is reached before the SPA catch-all that would otherwise claim it",
+  "suite": [
+    "unit/vercelRoutes.spec.ts",
+    "the API route"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:234",
+  "retry": 0,
+  "repeat": 0
+}

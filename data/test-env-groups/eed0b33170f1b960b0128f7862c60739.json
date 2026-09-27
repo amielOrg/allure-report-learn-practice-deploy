@@ -1,1 +1,1 @@
-{"id":"eed0b33170f1b960b0128f7862c60739","fullName":"tests.test_progress#test_unknown_fields_are_refused_rather_than_dropped","name":"test_unknown_fields_are_refused_rather_than_dropped","status":"passed","testResultsByEnv":{"default":"c6f5ffc6e3add6db86c5749c9081a3c6"}}
+{"id":"eed0b33170f1b960b0128f7862c60739","fullName":"tests.test_progress#test_unknown_fields_are_refused_rather_than_dropped","name":"test_unknown_fields_are_refused_rather_than_dropped","status":"passed","testResultsByEnv":{"default":"2e931908bd490a85e1716a28b42b81cf"}}

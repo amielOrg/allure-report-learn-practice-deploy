@@ -1,0 +1,3 @@
+[GIVEN] still carries the security headers every response gets | project=unit | /home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:259
+[WHEN] still carries the security headers every response gets | execute test actions and assertions
+[THEN] still carries the security headers every response gets | status=passed | expected=passed | duration=4ms

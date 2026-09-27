@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "is never cached, whatever the site-wide default says",
+  "suite": [
+    "unit/vercelRoutes.spec.ts",
+    "the API route"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:252",
+  "retry": 0,
+  "repeat": 0
+}

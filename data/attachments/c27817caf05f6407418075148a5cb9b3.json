@@ -1,0 +1,11 @@
+{
+  "project": "unit",
+  "test": "lets a real file win, which is why it sits after the filesystem",
+  "suite": [
+    "unit/vercelRoutes.spec.ts",
+    "the API route"
+  ],
+  "source": "/home/runner/work/LearnPracticeWork/LearnPracticeWork/tests/unit/vercelRoutes.spec.ts:243",
+  "retry": 0,
+  "repeat": 0
+}
