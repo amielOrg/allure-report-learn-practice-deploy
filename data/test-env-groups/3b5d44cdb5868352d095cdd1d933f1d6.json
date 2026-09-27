@@ -1,1 +1,1 @@
-{"id":"3b5d44cdb5868352d095cdd1d933f1d6","fullName":"openapi.spec.ts:139:5","name":"GET /admin/customers has a generated response schema","status":"passed","testResultsByEnv":{"default":"89dd1a598f0cb767bd71f95a59744e71"}}
+{"id":"3b5d44cdb5868352d095cdd1d933f1d6","fullName":"openapi.spec.ts:139:5","name":"GET /admin/customers has a generated response schema","status":"passed","testResultsByEnv":{"default":"ca66125b1bcac77ad14640ab7ba5efeb"}}

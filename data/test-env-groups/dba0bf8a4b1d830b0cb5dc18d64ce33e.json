@@ -1,1 +1,1 @@
-{"id":"dba0bf8a4b1d830b0cb5dc18d64ce33e","fullName":"tests.test_customers#test_the_customer_routes_are_behind_the_admin_token","name":"test_the_customer_routes_are_behind_the_admin_token","status":"passed","testResultsByEnv":{"default":"035451d17ea0a3a5b9331fd5d6505b4d"}}
+{"id":"dba0bf8a4b1d830b0cb5dc18d64ce33e","fullName":"tests.test_customers#test_the_customer_routes_are_behind_the_admin_token","name":"test_the_customer_routes_are_behind_the_admin_token","status":"passed","testResultsByEnv":{"default":"a93737bd8f9f8157fe9fb401fd19699a"}}

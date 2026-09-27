@@ -1,1 +1,1 @@
-{"id":"c0e84671923d48b351a683df5b7035ae","fullName":"seoHead.spec.ts:46:1","name":"keeps the bare URL as the x-default","status":"failed","testResultsByEnv":{"default":"ccce7552709f4ea2683b626ecc94b047"}}
+{"id":"c0e84671923d48b351a683df5b7035ae","fullName":"seoHead.spec.ts:50:1","name":"keeps the bare URL as the x-default","status":"passed","testResultsByEnv":{"default":"fa78708895c7baa6897c48d303838d38"}}

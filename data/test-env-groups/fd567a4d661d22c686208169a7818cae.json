@@ -1,1 +1,1 @@
-{"id":"fd567a4d661d22c686208169a7818cae","fullName":"openapi.spec.ts:161:5","name":"POST /stripe/checkout answers with a documented status","status":"passed","testResultsByEnv":{"default":"506d8ca9fb421aeeb74dd7419ddb2162"}}
+{"id":"fd567a4d661d22c686208169a7818cae","fullName":"openapi.spec.ts:161:5","name":"POST /stripe/checkout answers with a documented status","status":"passed","testResultsByEnv":{"default":"20c515f9e3f189f32a474c5cf75c72dc"}}
